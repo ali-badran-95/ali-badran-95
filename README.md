@@ -1,20 +1,24 @@
 ### Hi there 👋
-My name is Ali, I am an Odoo developer.
+My name is Ali, I am an **Odoo** developer.
 I have a big knowledge of ERP systems. Working on integration, deployement, and delivery new modules based on customer needs as well as revision, repair and customization of official modules.
 
+🎓 I have a bachelor's degree in software engineering.
 
+📚 I've taken many courses in programming languages, algorithms, version control systems, projects management methdeolgies, etc.
 
-<!--
-**ali-badran-95/ali-badran-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I like reading, playing chess and learning other languages.
 
-Here are some ideas to get you started:
+### Skills ⚡
+⭐ Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Javascript
+
+⭐ SQL
+
+⭐ XML
+
+⭐ HTML
+
+⭐ CSS
+
+⭐ SCSS
