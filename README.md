@@ -1,4 +1,8 @@
 ### Hi there 👋
+My name is Ali, I am an Odoo developer.
+I have a big knowledge of ERP systems. Working on integration, deployement, and delivery new modules based on customer needs as well as revision, repair and customization of official modules.
+
+
 
 <!--
 **ali-badran-95/ali-badran-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
